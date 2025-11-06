@@ -1,0 +1,2 @@
+model,target,mse,mae,rmse,horizon,H,window_complexity
+DLinear,OT,93970.4535,218.4645,306.5460,96,7.6739352963333864, 8246.684381755831
